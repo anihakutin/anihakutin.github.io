@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Thoughts + Code
 header-img: img/home-bg.png
 email: 4hbrody@gmail.com
 copyright_name: anihakutin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Do what you love and you'll never work a day in your life. 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  anihakutin
