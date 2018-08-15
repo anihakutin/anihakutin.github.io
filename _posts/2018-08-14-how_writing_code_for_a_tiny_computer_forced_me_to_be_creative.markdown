@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "How Writing Code For a Tiny Computer Forced Me To Be Creative"
-date:       2018-08-15 03:31:10 +0000
+title:      "Forced Creativity. Writing Code For Limited Hardware."
+date:       2018-08-14 23:31:11 -0400
 permalink:  how_writing_code_for_a_tiny_computer_forced_me_to_be_creative
 ---
 
