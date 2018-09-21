@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "TDD, Objects, Methods, DRY Code, Etc. Definitions I wish I knew."
-date:       2018-09-21 19:49:55 +0000
+date:       2018-09-21 15:49:56 -0400
 permalink:  tdd_objects_methods_dry_code_etc_definitions_i_wish_i_knew
 ---
 
@@ -26,12 +26,14 @@ Methods should always return a value. Nil is also a value. Stop trying to come u
 
 > “Write with function, refactor with style”
 
+
 ## DRY (Don’t Repeat Yourself)
 ### In order to truly be lazy one must plan ahead…
 Using modules with classes and proper planning will ensure that you never repeat yourself unnecessarily.
 
 
 > “Inheritance gives us the ability to be lazy. -Just like a real inheritance...”
+
 
 ## Google and Stack Overflow
 
