@@ -17,7 +17,7 @@ Also, it forces you to implement with metaphors to form your test code essential
 >  *"Steve Jobs created the iPhone by giving(yelling…) to his team the specs he wished phones had...”*
 
 
-
+ 
 
 ## Methods and return values
 ### Methods are used to create a desired output. Use them that way.
@@ -26,7 +26,8 @@ Methods should always return a value. Nil is also a value. Stop trying to come u
 
 > “Write with function, refactor with style”
 
-
+ 
+ 
 ## DRY (Don’t Repeat Yourself)
 ### In order to truly be lazy one must plan ahead…
 Using modules with classes and proper planning will ensure that you never repeat yourself unnecessarily.
@@ -34,12 +35,13 @@ Using modules with classes and proper planning will ensure that you never repeat
 
 > “Inheritance gives us the ability to be lazy. -Just like a real inheritance...”
 
-
+ 
+  
 ## Google and Stack Overflow
 
 ![](https://media.giphy.com/media/3oKIPmM4hkQIf4p5T2/giphy.gif)
 ### No one ever memorized an entire code library in 2 days... Google It.
-FInd yourself staring at your failed tests for hours thinking the solution will somehow present itself? It won’t. Learning from others mistakes and problems is the best way to get a deeper understanding and grasp new concepts.
+Find yourself staring at your failed tests for hours thinking the solution will somehow present itself? It won’t. Learning from others mistakes and problems is the best way to get a deeper understanding and grasp new concepts.
 
 >“The difference between a layman and an engineer is not knowledge, but the ability to solve a problem and that is what truly counts. ”
 
