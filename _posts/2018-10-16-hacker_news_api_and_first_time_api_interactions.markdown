@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Hacker News API and first time API interactions "
-date:       2018-10-16 04:28:47 +0000
+date:       2018-10-16 00:28:48 -0400
 permalink:  hacker_news_api_and_first_time_api_interactions
 ---
 
@@ -30,7 +30,7 @@ For my CLI gem project I went ahead and built a gem that can interact and pull d
 
 
 
-My next step was creating the scraper class and article class and build the menu .
+My next step was creating the scraper class and article class and build the menu.
 
 The hacker news api is pretty straight forward and it returns a list of article id's for each section requested.
 
