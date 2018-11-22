@@ -1,13 +1,13 @@
 ---
 layout: post
 title:      "My Conversation With The Founder of a 2 Billion Dollar Software Company"
-date:       2018-11-22 02:21:24 +0000
+date:       2018-11-21 21:21:24 -0500
 permalink:  my_conversation_with_the_founder_of_a_2_billion_dollar_software_company
 ---
 
 ![](https://media.giphy.com/media/ObLGuG70XenHW/giphy.gif)
 
-### I recently had the amazing opportunity to talk to the CEO and founder of a (valued @) 2 billion dollar company Based in NYC. I asked him some questions to open the taps and took some notes. In my writing of this conversation I tried to keep it raw in order to contain that sense of conversation. Sorry Grammar freaks.<br>
+### I recently had the amazing opportunity to talk with the CEO and founder of a (valued @) 2 billion dollar company Based in NYC. I asked him some questions to open the taps and took some notes. In my writing of this conversation I tried to keep it raw in order to contain that sense of conversation. Sorry Grammar freaks.<br>
 ### Unfortunately due to the stature of this CEO’s position I cannot mention him or his company by name. Nevertheless. Hope you enjoy!
 
 **Your story, how did you get started?**<br>
