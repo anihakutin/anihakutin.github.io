@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Sinatra With Sessions And Authentication"
-date:       2019-03-04 20:31:21 +0000
+date:       2019-03-04 15:31:22 -0500
 permalink:  sinatra_with_sessions_and_authentication
 ---
 
