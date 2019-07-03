@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Rails Project: Drivenwork.com"
-date:       2019-07-02 23:42:15 +0000
+date:       2019-07-02 19:42:17 -0400
 permalink:  rails_project_drivenwork_com
 ---
 
@@ -45,7 +45,7 @@ Create an app where users can submit companies with their Ceo and the problems o
 * You can view all Companies,  Ceo's, Problems and Technology Breakthroughs through the main menu
 * You can add a company or you can add a problem or a technology breakthrough to an existing company.
 
-That's all there is, I know the layout and design is crap, I through bootstrap in so It wouldn't look 90's but other then that shoot me a msg if you find yourself lost.
+That's all there is, I know the layout and design is crap, I threw bootstrap on so It wouldn't look 90's but other then that it needs work, shoot me a msg if you find yourself lost...
 
 Oh, and it took me 4 hours to [learn how to] deploy to AWS...
 
