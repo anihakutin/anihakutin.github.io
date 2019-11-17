@@ -27,7 +27,7 @@ A nut and a genius are very similar that both have this crazy obsession with one
 **Not Waiting for the next thing to start being creative. Permission to shine**<br>
 The biggest mistake I see people making is that they wait for their next big thing to give themselves the permission to be creative. 
 Real creativity is all about making the boring interesting. Working by day to pay the bills and studying in school at night? Make that job exciting, find a way to help your company in a creative way, learn to combine the two. 
-Try to get permission to shine, have an idea? ask your boss to give you a chance at it, as they say “The best way to make a million is by making someone else 2 million”
+Try to get permission to shine, have an idea? Ask your boss to give you a chance at it, as they say “The best way to make a million is by making someone else 2 million”
 
 **You can’t build to success. Success evolves unexpectedly**<br>
 You never know where something will come from, our product was a natural process. It came to be by building tools that’ll helped our day to day in my software consulting business and it was totally unseen. It was an unexpected evolution. 
@@ -37,7 +37,7 @@ It was again this honest curiosity and it came from something else, we we’re l
 1. Dissatisfaction 
 2. Curiosity 
 3. Relentless progress
-*…reset cycle*
+*…repeat*
 
 
 **To me it was all rascal hacking. I tried hard not to smirk at the VC’s…**<br>
@@ -58,7 +58,7 @@ Try not to jump around too much, employers like people who commit for the long t
 Be interviewed and interview. Make sure to talk to at least 3 people who work at the company you're inquiring about.
 
 **What is the single most important skill to have as an engineer?(there are many…)**<br>
-1. Ability to debug. Learn to how to trace and isolate problems. 
+1. Ability to debug. Learn how to trace and isolate problems. 
 2. Stay ahead with your language, follow and learn, geek out on it.
 3. Avid curiosity, 9 to 5
 4. User experience comes before everything 
@@ -70,5 +70,6 @@ Be interviewed and interview. Make sure to talk to at least 3 people who work at
 *This conversation was very inspiring and helped me tons, hope it helps you to!*
 
 Heshie Brody
+
 
 
